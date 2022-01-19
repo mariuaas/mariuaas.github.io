@@ -3,6 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+#### Education
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I did both my BSc and MSc at the University of Oslo. My BSc started as part of the Mathematics and Informatics programme (MAMI), where my coursework was spread evenly between mathematics, statistics and computer science. My bachelor project focused on fractals and imaging, and was supervised by Tom Lindstrøm.
+
+I joined the Data Science master programme in 2019, where my coursework was focused on Bayesian data analysis, computational statistics and image processing. My masters thesis was initially part of the Bayesian Neural Network (BNN) group, and was written under the supervision of Odd Kolbjørnsen on the role of Invertible Neural Networks (INNs) in inverse problems for imaging, where we propose some new methods to bridge the gap between densely connected and convolutional feed-forward architectures and INN / NF (Normalizing Flow) structures.
+
+#### Research Interests
+
+I am interested in Bayesian paradigms and probabilistic machine learning techniques, particularly generative modelling, normalizing flows, invertible neural networks, and encoder/decoder models. I am also looking at attention mechanisms in vision transformers, graph neural networks, as well as representation learning and methods for incorporating contextual priors in deep learning.
+
+From a mathematical perspective, I am interested in representation theory, linear analysis, manifolds, and some differential geometry. In terms of applied mathematics and signal processing, I am interested in frame theory, information theory, and generalised Fourier- and wavelet analysis.
+
+#### Recreation
+
+On my spare time, I am interested in writing music, audio production, procedurally generated art, and recreational reading of various topics in physics and philosophy.
