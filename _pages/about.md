@@ -13,7 +13,8 @@ I joined the Data Science master programme in 2019, where my coursework was focu
 
 I am interested in Bayesian paradigms and probabilistic machine learning techniques, particularly generative modelling, normalizing flows, invertible neural networks, and encoder/decoder models. I am also looking at attention mechanisms in vision transformers, graph neural networks, as well as representation learning and methods for incorporating contextual priors in deep learning.
 
-From a mathematical perspective, I am interested in representation theory, linear analysis, manifolds, and some differential geometry. In terms of applied mathematics and signal processing, I am interested in frame theory, information theory, and generalised Fourier- and wavelet analysis.
+From a mathematical perspective, I am currently interested in representation theory, linear- and functional analysis, and Lie groups. In terms of applied mathematics and signal processing, I am looking at frame theory, information theory, and generalised Fourier- and wavelet analysis.
+
 
 #### Recreation
 
